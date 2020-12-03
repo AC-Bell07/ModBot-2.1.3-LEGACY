@@ -1,0 +1,14 @@
+{
+	"prefix": "",
+	"token": "", 
+
+	"AveryID": "",
+	"ElijahID": "",
+	"ModeratorRoleID": "",
+	"MuteRoleID": "",
+	"MemberRoleID": "",
+
+	"UserLog": "",
+	"ModLog": "",
+	"AssignMemberRoleOnJoin": false
+}

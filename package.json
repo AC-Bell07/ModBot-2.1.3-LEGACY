@@ -1,0 +1,17 @@
+{
+  "name": "modbot",
+  "version": "2.1",
+  "description": "Discord bot for the any server with these files",
+  "main": "modbot.js",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "A.C Bell and Elijah",
+  "license": "ISC"
+}
